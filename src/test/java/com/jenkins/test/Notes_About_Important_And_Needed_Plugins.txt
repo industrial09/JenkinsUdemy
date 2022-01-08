@@ -1,0 +1,7 @@
+***** SONARQUBE *****
+To start and put on Up state to SonarQube, next steps are done:
+1. Go to folder bin -> OS version -> StartSonar.bat and execute it
+
+SOMETHING IMPORTANT TO REMEMBER:
+For current SonarQube version, some arguments are needed to be added in the Maven configuration, from the JRE tab of such Maven
+running config
