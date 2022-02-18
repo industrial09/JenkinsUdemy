@@ -1,0 +1,10 @@
+SETTINGS REQUIRED FOR HAVING A STEADY POSTMAN INTEGRATION SYSTEM:
+1) Jdk version 8 with 
+2) Jenkins version 2.319.3
+
+Ways to execute Postman collections:
+1) Copying JSon link from sharing option
+2) Exporting collection and running json collection generated
+3) Using Newman with the Postman API: https://www.npmjs.com/package/newman#using-newman-with-the-postman-api
+
+when executing Postman collections (stored in Github) from Jenkins, look at png files "POSTMANCollectionsStoredInGITHUBAndJENKINS" and "POSTMANCollectionsStoredInGITHUBAndJENKINS2"
